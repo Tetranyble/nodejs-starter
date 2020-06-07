@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-starter",
+  "version": "1.0.0",
+  "description": "this repository gives a ready made starter script for nodejs express server set-up.",
+  "main": "pre-configure editor rules and esls) ",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "engines": {
+    "node": "12.14.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetranyble/nodejs-starter.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "express",
+    "expressjs",
+    "web",
+    "server",
+    "node-express"
+  ],
+  "author": "Ekenekiso Leonard Ugbanawaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tetranyble/nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/Tetranyble/nodejs-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
